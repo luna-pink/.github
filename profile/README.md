@@ -1,1 +1,1 @@
-Novalean is an upcoming selfbot for 2023. Reliable and functional.
+The Selfbot Company. Working on Astolfo selfbot (Astolfo.wtf).

@@ -1,1 +1,1 @@
-The Selfbot Company. Working on Astolfo selfbot (Astolfo.wtf).
+The Selfbot Company. Working on Luna selfbot, soon™.
